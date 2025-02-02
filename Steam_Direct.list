@@ -1,5 +1,5 @@
 DOMAIN,steamcdn-a.akamaihd.net
-DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 IP-CIDR,45.121.184.0/24,no-resolve
 IP-CIDR,103.10.124.0/23,no-resolve
